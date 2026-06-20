@@ -3,12 +3,11 @@ title: TariffIQ — Dynamic Tariff Realignment Agent
 emoji: ⚡
 colorFrom: blue
 colorTo: indigo
-sdk: streamlit
-sdk_version: 1.35.0
-app_file: app.py
+sdk: docker
+app_port: 7860
 pinned: true
 license: mit
-short_description: AI agent that monitors US tariffs and calculates landed cost impact in real-time
+short_description: AI agent for tariff monitoring & landed cost analysis
 ---
 
 # TariffIQ — Dynamic Tariff Realignment & Landed Cost Agent
